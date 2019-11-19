@@ -1,0 +1,11 @@
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp2.2/ai_imageDes.csprojAssemblyReference.cache
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp2.2/ai_imageDes.csproj.CoreCompileInputs.cache
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp2.2/ai_imageDes.AssemblyInfoInputs.cache
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp2.2/ai_imageDes.AssemblyInfo.cs
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp2.2/ai_imageDes.deps.json
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp2.2/ai_imageDes.runtimeconfig.json
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp2.2/ai_imageDes.runtimeconfig.dev.json
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp2.2/ai_imageDes.dll
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp2.2/ai_imageDes.pdb
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp2.2/ai_imageDes.dll
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp2.2/ai_imageDes.pdb
